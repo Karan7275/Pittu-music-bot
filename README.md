@@ -28,7 +28,6 @@
 
 ## 💡 Quick Deploy
 
-<a href="https://deploy.kustbotsweb.workers.dev"><img src="https://img.shields.io/badge/-Deploy%20to%20Railway-cyan?style=for-the-badge&logo=railway"></a>
 
 
 
